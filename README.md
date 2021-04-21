@@ -1,0 +1,1 @@
+This repo contains a lot of the dev work I did as a front-end developer for Mission: Mentor.
